@@ -1,6 +1,7 @@
 # Análise Comparativa de Empresas com Streamlit
 
 Este projeto é uma aplicação web desenvolvida em Python utilizando Streamlit para fornecer uma análise comparativa de indicadores financeiros de diferentes empresas e uma análise gráfica dos dados históricos das ações. A aplicação permite a visualização de diversos indicadores financeiros e a plotagem de gráficos interativos dos preços das ações ao longo do tempo.
+O projeto pode ser acessado em: https://comparativo-empresarial-online-nxur6nrttpah85tgt9qzj9.streamlit.app/
 
 ## Funcionalidades
 
