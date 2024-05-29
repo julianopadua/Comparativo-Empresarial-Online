@@ -69,7 +69,8 @@ requirements.txt: Lista de todas as dependências necessárias para rodar o proj
 Entrada de Dados: O usuário insere os tickers das empresas separados por vírgula.
 Análise Comparativa: Compara diversos indicadores financeiros das empresas inseridas e destaca os maiores valores.
 Análise Gráfica: Permite ao usuário selecionar um intervalo de datas e visualizar os gráficos de preços históricos das ações das empresas selecionadas.
-### Aviso
+
+## Aviso
 Este projeto é apenas para fins educacionais e de demonstração. Não deve ser utilizado como uma ferramenta de investimento. As informações fornecidas são baseadas em dados públicos e podem não ser precisas ou completas. Consulte um profissional financeiro antes de tomar qualquer decisão de investimento.
 
 ## Contribuições
