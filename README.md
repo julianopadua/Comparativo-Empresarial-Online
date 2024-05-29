@@ -1,6 +1,7 @@
 # Análise Comparativa de Empresas com Streamlit
 
-Este projeto é uma aplicação web desenvolvida em Python utilizando Streamlit para fornecer uma análise comparativa de indicadores financeiros de diferentes empresas e uma análise gráfica dos dados históricos das ações. A aplicação permite a visualização de diversos indicadores financeiros e a plotagem de gráficos interativos dos preços das ações ao longo do tempo.
+Este projeto é uma aplicação web desenvolvida em Python utilizando Streamlit para fornecer uma análise comparativa de indicadores financeiros de diferentes empresas e uma análise gráfica dos dados históricos das ações. Ela permite a visualização de diversos indicadores financeiros e a plotagem de gráficos interativos dos preços das ações ao longo do tempo. O objetivo é educacional, em que busco evoluir aplicando conhecimentos adquiridos em prática!
+
 O projeto pode ser acessado em: https://comparativo-empresarial-online-nxur6nrttpah85tgt9qzj9.streamlit.app/
 
 ## Funcionalidades
@@ -38,12 +39,17 @@ Crie um ambiente virtual usando virtualenv e ative-o:
 
 ```sh
 python -m venv .venv
+```
 
-Ativar o ambiente virtual
-No Windows
+Ativar o ambiente virtual no Windows
+
+```sh
 .venv\Scripts\activate
+```
 
 No macOS/Linux
+
+```sh
 source .venv/bin/activate
 ```
 
@@ -72,7 +78,7 @@ Análise Comparativa: Compara diversos indicadores financeiros das empresas inse
 Análise Gráfica: Permite ao usuário selecionar um intervalo de datas e visualizar os gráficos de preços históricos das ações das empresas selecionadas.
 
 ## Aviso
-Este projeto é apenas para fins educacionais e de demonstração. Não deve ser utilizado como uma ferramenta de investimento. As informações fornecidas são baseadas em dados públicos e podem não ser precisas ou completas. Consulte um profissional financeiro antes de tomar qualquer decisão de investimento.
+Este projeto é apenas para fins educacionais e de demonstração. Não deve ser utilizado como uma ferramenta de investimento. As informações fornecidas são baseadas em dados públicos e podem não ser precisas ou completas. Ademais, recomendo a procura de um profissional, caso você não seja, antes de realizar investimentos.
 
 ## Contribuições
 Contribuições são bem-vindas! Se você quiser melhorar o projeto ou corrigir algum bug, sinta-se à vontade.
