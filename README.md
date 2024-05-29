@@ -65,13 +65,6 @@ A aplicação estará disponível no seu navegador padrão.
 ## Estrutura do Projeto
 analise_comparativa.py: Script principal que contém a aplicação Streamlit.
 requirements.txt: Lista de todas as dependências necessárias para rodar o projeto.
-## Explicação do Código
-### Bibliotecas Utilizadas
-Streamlit: Utilizada para criar a interface web interativa.
-yFinance: Usada para obter os dados financeiros das empresas.
-Pandas: Utilizada para manipulação e análise dos dados obtidos.
-Matplotlib: Utilizada para plotar os gráficos dos dados históricos das ações.
-Googletrans: Utilizada para traduzir descrições das empresas para o português.
 ### Funcionalidades do Código
 Entrada de Dados: O usuário insere os tickers das empresas separados por vírgula.
 Análise Comparativa: Compara diversos indicadores financeiros das empresas inseridas e destaca os maiores valores.
@@ -79,6 +72,6 @@ Análise Gráfica: Permite ao usuário selecionar um intervalo de datas e visual
 ### Aviso
 Este projeto é apenas para fins educacionais e de demonstração. Não deve ser utilizado como uma ferramenta de investimento. As informações fornecidas são baseadas em dados públicos e podem não ser precisas ou completas. Consulte um profissional financeiro antes de tomar qualquer decisão de investimento.
 
-Contribuições
+## Contribuições
 Contribuições são bem-vindas! Se você quiser melhorar o projeto ou corrigir algum bug, sinta-se à vontade.
 ```
